@@ -1,0 +1,5 @@
+Batman_-_Arkham_Origins (Development Studio: WB_Games_Montreal, Year: 2013, Platform: PC_Steam)
+Batman_-_Arkham_Knight (Development Studio: Rocksteady_Studios, Year: 2015, Platform: PC_Steam)
+Batman_-_Arkham_Asylum (Development Studio: Rocksteady_Studios, Year: 2009, Platform: PC_Epic)
+Batman_-_Arkham_City (Development Studio: Rocksteady_Studios, Year: 2011, Platform: PC_Epic)
+Batman_-_Arkham_Origins_Blackgate_-_Deluxe_Edition (Development Studio: Armature_Studio, Year: 2014, Platform: PC_Steam)
