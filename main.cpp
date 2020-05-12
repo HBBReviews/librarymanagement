@@ -25,11 +25,6 @@ public:
     int FYear, FIndex;
 };
 
-int TestFileInput() // Function: Check If Film Is In Library
-{
-    cout << "\nTestFileInput\n";
-}
-
 bool SelectFunction();
 void EnterObject();
 void BookDataCollection();
@@ -380,9 +375,6 @@ bool Replay() // Function: Reuse the Application
 
 int main()
 {
-    // FilmSearch();
-    // TestFileInput();
-
     bool Debug = true; // Boolean for the While Loop
 
     while (Debug) // Function: Loop the System Until Otherwise
